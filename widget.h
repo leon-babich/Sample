@@ -17,6 +17,9 @@ public:
     ~Widget();
 
 private:
+    void generateValues();
+
+private:
     Ui::Widget *ui;
     QVector<int> m_listValue;
 };
