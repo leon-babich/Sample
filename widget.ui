@@ -20,9 +20,6 @@
    <item>
     <widget class="QTextEdit" name="textEdit_2"/>
    </item>
-   <item>
-    <widget class="QLineEdit" name="lineEdit"/>
-   </item>
   </layout>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
